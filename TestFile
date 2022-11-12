@@ -1,0 +1,7 @@
+class Test{
+   int c = 0;
+   public Test(int a, int b){
+    c = a+b;
+   }
+
+}
